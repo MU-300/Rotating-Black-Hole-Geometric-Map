@@ -1,4 +1,4 @@
-# Kerr-Black-Hole-Principal-Ideal-Geometry
+# Rotating-Black-Hole-Geometric-Map
 A discrete geometric map of rotating (Kerr) black holes, modeling the ring singularity as an algebraic zero-seat principal ideal anchor, Hawking radiation as orthogonal projection exhaust (P1+P2=1), and cosmic web filaments as S3 stereographic projections.
 # Rotating-Black-Hole-Geometric-Map
 (回転ブラックホールの幾何学マップ：ゼロ席・単項イデアル・直交射影と $S^3$ 銀河フィラメント構造)
